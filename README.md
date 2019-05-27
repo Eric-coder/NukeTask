@@ -11,3 +11,4 @@
 选中镜头序列帧或mov视频，如上:文件名为 pipeline_S031_ST003,文件名的分割符为下划线_ 所以在工具界面上请输入分隔符 栏填写 下划线 后按下回车如下:
 ![image](https://github.com/WangTianX/NukeTask/blob/master/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190527212017.png)
 ![image](https://github.com/WangTianX/NukeTask/blob/master/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190527212042.png)
+如上创建镜头后，对应cgteamwork就有对应的镜头信息如下：
