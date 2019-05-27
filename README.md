@@ -12,3 +12,4 @@
 ![image](https://github.com/WangTianX/NukeTask/blob/master/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190527212017.png)
 ![image](https://github.com/WangTianX/NukeTask/blob/master/image/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190527212042.png)
 如上创建镜头后，对应cgteamwork就有对应的镜头信息如下：
+![image](https://github.com/WangTianX/NukeTask/blob/master/image/_20190527212124.png)
