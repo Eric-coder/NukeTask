@@ -16,5 +16,6 @@
 
 创建任务：
 当镜头创建完成后，可以通过工具进行任务的创建，与分配。首先说明创建任务是根据nuke backdropNode层级创建的如图:
-
+![image](https://github.com/WangTianX/NukeTask/blob/master/image/_20190527213158.png)
 第一层级的 backdrop 为S031 第二层为 comp 第三层为 王天翔 第四层为抠像
+![image](https://github.com/WangTianX/NukeTask/blob/master/image/_20190527213239.png)
